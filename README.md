@@ -1,1 +1,1 @@
-# squash-merge-test
+# squash merge test
