@@ -1,1 +1,3 @@
-# SQUASH MERGE TEST
+# SQUASH MERGE
+
+Some doc here
